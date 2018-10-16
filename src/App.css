@@ -1,0 +1,26 @@
+@import '~antd/dist/antd.css';
+
+.login-container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.login-content {
+    display: flex;
+    flex: 1;
+    background-color: #F0F0F0;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+}
+
+.login-form {
+    width: 480px;
+    margin: auto;
+}
+
+.footer {
+    height: 100px;
+    background-color: #FFF;
+}
